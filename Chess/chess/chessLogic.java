@@ -1,11 +1,9 @@
 /**
  * Implements chess board and the pieces on the board
  * 
- * @author Harshith Samayamantula (hs1018)
- * @author Oways Jaffer (omj9)
- * 
+ * @author Harshith Samayamantula
  */
-package chess25.chess;
+package Chess.chess;
 
 public class chessLogic {
     public static ChessPiece[][] ChessBoard;

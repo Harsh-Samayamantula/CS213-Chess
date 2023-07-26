@@ -1,10 +1,8 @@
 /**
  * Represents Knight in Chess
- * @author Harshith Samayamantula (hs1018)
- * @author Oways Jaffer (omj9)
- * 
+ * @author Harshith Samayamantula
  */
-package chess25.chess;
+package Chess.chess;
 
 import java.util.*;
 

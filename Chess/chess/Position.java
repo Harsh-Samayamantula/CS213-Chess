@@ -1,11 +1,9 @@
 /**
  * Position class to keep track of locations for ChessPieces in a game.
  *
- * @author Harshith Samayamantula (hs1018)
- * @author Oways Jaffer (omj9)
- * 
+ * @author Harshith Samayamantula
  */
-package chess25.chess;
+package Chess.chess;
 
 public class Position {
     public int file;
